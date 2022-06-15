@@ -1,6 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-import routes from './routes/reserve.js';
+import routes from './routes/book.js';
 // @ts-ignore
 import db from '../dist/db/conn.js';
 
